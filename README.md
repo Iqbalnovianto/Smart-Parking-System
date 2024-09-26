@@ -1,4 +1,3 @@
-# Smart-Parking-System
 # Laporan Proyek: Smart Parking System Otomatis
 
 **Nama:** Iqbal Novianto  
